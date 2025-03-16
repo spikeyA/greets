@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349692795489",
+    "project_id": "greetsapp-760e7",
+    "storage_bucket": "greetsapp-760e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349692795489:android:5c14e2ef251fa8c9b4e820",
+        "android_client_info": {
+          "package_name": "greetsApp14.s"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA26MwfthV5GymrRlYGBif-ufAqm7FYxoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
