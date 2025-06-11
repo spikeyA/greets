@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "349692795489",
-    "project_id": "greetsapp-760e7",
-    "storage_bucket": "greetsapp-760e7.firebasestorage.app"
+    "project_number": "723658939390",
+    "project_id": "greet-vent",
+    "storage_bucket": "greet-vent.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:349692795489:android:5c14e2ef251fa8c9b4e820",
+        "mobilesdk_app_id": "1:723658939390:android:40feae408c537f11e5feaf",
         "android_client_info": {
-          "package_name": "greetsApp14.s"
+          "package_name": "greets.vent2025"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA26MwfthV5GymrRlYGBif-ufAqm7FYxoM"
+          "current_key": "AIzaSyCz6NSACY6B4uYlAYFpyHOdpVTe9qerjp8"
         }
       ],
       "services": {
