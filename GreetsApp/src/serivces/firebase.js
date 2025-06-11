@@ -16,4 +16,3 @@ if (!firebase.apps.length) {
 }
 
 export { firebase, auth, storage };
-
