@@ -66,3 +66,5 @@ yarn-error.log
 # Environment variables
 .env
 .env.* 
+[package-lock.json](http://_vscodecontentref_/3)
+[yarn.lock](http://_vscodecontentref_/4)
